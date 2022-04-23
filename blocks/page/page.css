@@ -10,7 +10,7 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   color: #FFFFFF;
-  margin: 0;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
