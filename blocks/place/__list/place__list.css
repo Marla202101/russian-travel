@@ -1,0 +1,23 @@
+.place__list {
+    padding-bottom: 26px;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__list {
+    padding-bottom: 27px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place__list {
+    padding-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__list {
+    padding-bottom: 25px;
+  }
+}
+
+
