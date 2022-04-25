@@ -2,20 +2,13 @@
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
-  line-height: 12px;
-/* identical to box height, or 100% */
+  line-height: 170%;
+  /* or 20px */
   letter-spacing: 2px;
   margin-top: 0;
 }
 
 @media screen and (max-width: 1023px) {
-  .place__url-heading {
-    line-height: 12px;
-    /* identical to box height, or 100% */
-  }
-}
-
-@media screen and (max-width: 767px) {
   .place__url-heading {
     line-height: 12px;
     /* identical to box height, or 100% */

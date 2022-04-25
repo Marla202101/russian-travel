@@ -11,6 +11,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
@@ -22,20 +23,12 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list/_item/intro__list_item.css);
+
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__item-clouds/photo-grid__item-clouds.css);
-@import url(../blocks/photo-grid/__item-forest/photo-grid__item-forest.css);
-@import url(../blocks/photo-grid/__item-hills/photo-grid__item-hills.css);
-@import url(../blocks/photo-grid/__item-mountain/photo-grid__item-mountain.css);
-@import url(../blocks/photo-grid/__item-peaks/photo-grid__item-peaks.css);
-@import url(../blocks/photo-grid/__item-rocks/photo-grid__item-rocks.css);
-@import url(../blocks/photo-grid/__item-seacoast/photo-grid__item-seacoast.css);
-@import url(../blocks/photo-grid/__item-traffic/photo-grid__item-traffic.css);
-@import url(../blocks/photo-grid/__item-valley/photo-grid__item-valley.css);
-@import url(../blocks/photo-grid/__item-wheel/photo-grid__item-wheel.css);
-@import url(../blocks/photo-grid/__item-window/photo-grid__item-window.css);
-@import url(../blocks/photo-grid/__item-wolf/photo-grid__item-wolf.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__list/photo-grid__list.css);
 
 @import url(../blocks/places/places.css);
 

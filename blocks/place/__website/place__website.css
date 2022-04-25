@@ -16,6 +16,7 @@
   .place__website {
     max-width: 288px;
     margin-bottom: 32px;
+    padding-left: 5%;
   }
 }
 
